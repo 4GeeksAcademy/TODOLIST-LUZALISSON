@@ -1,0 +1,7 @@
+.eliminar-btn {
+	visibility: hidden;
+}
+
+.tarea-item:hover .eliminar-btn {
+	visibility: visible;
+}
